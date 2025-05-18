@@ -1,0 +1,11 @@
+Environment Requirment
+
+gym==0.21.0
+pybullet
+pybullet_envs
+stable-baselines3==1.6.2
+matplotlib
+
+python 3.10
+
+micrsorft studio c++ vis need(c++ 可视化编程那个软件）
